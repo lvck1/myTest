@@ -1,4 +1,4 @@
-package yys;
+package com.lvck1.yys;
 
 import com.sun.jna.Native;
 import com.sun.jna.Pointer;

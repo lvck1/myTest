@@ -1,4 +1,4 @@
-package yys;
+package com.lvck1.yys;
 
 import com.sun.jna.platform.win32.WinDef;
 
