@@ -34,7 +34,7 @@ public class yysRobot {
     }
 
     public void yuhun() {
-        Color startColor = new Color(236, 210, 126);
+        Color startColor = new Color(223, 196, 121);
         Color endColor1 = new Color(189, 168, 144);
         Color endColor2 = new Color(187, 57, 26);
         while (true) {
